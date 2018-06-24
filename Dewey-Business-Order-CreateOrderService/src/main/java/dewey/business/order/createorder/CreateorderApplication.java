@@ -20,6 +20,8 @@ public class CreateorderApplication {
     @RequestMapping("/Order/OrderCreate")
     public String OrderCreate(@RequestParam String oid, String token) throws UnknownHostException {
         //Call logic jar
+
+        //demos
         String host = InetAddress.getLocalHost().getHostAddress();
 
         return "Welcome CRCRFFP to UserLogin Microservice "+ oid +","+ host;
