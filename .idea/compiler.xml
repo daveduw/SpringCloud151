@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Dewey-Business-Order-CreateOrderService" />
+        <module name="Dewey-Business-User-UserLoginService" />
+        <module name="Dewey-Business-User-UserRegisterService" />
+        <module name="Dewey-Business-User-WechartLoginService" />
+        <module name="Dewey-Framework-ConfigServer" />
+        <module name="Dewey-Framework-EurekaServer" />
+        <module name="Dewey-Framework-ZipkinServer" />
+        <module name="Dewey-Framework-ZuulServer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Dewey-Business-Order-CreateOrderService" target="1.8" />
+      <module name="Dewey-Business-User-UserLoginService" target="1.8" />
+      <module name="Dewey-Business-User-UserRegisterService" target="1.8" />
+      <module name="Dewey-Business-User-WechartLoginService" target="1.8" />
+      <module name="Dewey-Framework-ConfigServer" target="1.8" />
+      <module name="Dewey-Framework-EurakaServer" target="1.8" />
+      <module name="Dewey-Framework-EurekaServer" target="1.8" />
+      <module name="Dewey-Framework-ZipkinServer" target="1.8" />
+      <module name="Dewey-Framework-ZuulServer" target="1.8" />
+      <module name="Dewey.Business-User-UserLogin" target="1.8" />
+      <module name="wechartlogin" target="1.8" />
+      <module name="zuulserver" target="1.8" />
+      <module name="ZuulServer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

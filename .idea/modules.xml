@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Business-Order-CreateOrderService/Dewey-Business-Order-CreateOrderService.iml" filepath="$PROJECT_DIR$/Dewey-Business-Order-CreateOrderService/Dewey-Business-Order-CreateOrderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Business-User-UserLoginService/Dewey-Business-User-UserLoginService.iml" filepath="$PROJECT_DIR$/Dewey-Business-User-UserLoginService/Dewey-Business-User-UserLoginService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Business-User-UserRegisterService/Dewey-Business-User-UserRegisterService.iml" filepath="$PROJECT_DIR$/Dewey-Business-User-UserRegisterService/Dewey-Business-User-UserRegisterService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Business-User-WechartLoginService/Dewey-Business-User-WechartLoginService.iml" filepath="$PROJECT_DIR$/Dewey-Business-User-WechartLoginService/Dewey-Business-User-WechartLoginService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Framework-ConfigServer/Dewey-Framework-ConfigServer.iml" filepath="$PROJECT_DIR$/Dewey-Framework-ConfigServer/Dewey-Framework-ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Framework-EurekaServer/Dewey-Framework-EurekaServer.iml" filepath="$PROJECT_DIR$/Dewey-Framework-EurekaServer/Dewey-Framework-EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Framework-ZipkinServer/Dewey-Framework-ZipkinServer.iml" filepath="$PROJECT_DIR$/Dewey-Framework-ZipkinServer/Dewey-Framework-ZipkinServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dewey-Framework-ZuulServer/Dewey-Framework-ZuulServer.iml" filepath="$PROJECT_DIR$/Dewey-Framework-ZuulServer/Dewey-Framework-ZuulServer.iml" />
+    </modules>
+  </component>
+</project>
